@@ -1,0 +1,25 @@
+{
+  "name": "introduction-to-js-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiviel14/Introduction-to-Js-exercise.git"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "hello",
+    "world"
+  ],
+  "author": "Seiviel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seiviel14/Introduction-to-Js-exercise/issues"
+  },
+  "homepage": "https://github.com/seiviel14/Introduction-to-Js-exercise#readme"
+}
